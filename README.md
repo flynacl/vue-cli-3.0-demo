@@ -1,4 +1,4 @@
-# vue-official-demo-20180731
+# vue-cli-3.0-demo
 
 ## Project setup
 ```
