@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <el-row type="flex" justify="center">
     <HelloWorld :msg="msg"/>
-  </div>
+  </el-row>
 </template>
 
 <script>
